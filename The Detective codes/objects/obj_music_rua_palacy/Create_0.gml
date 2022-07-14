@@ -1,0 +1,1 @@
+audio_play_sound(snd_rua_palacy,1,true);

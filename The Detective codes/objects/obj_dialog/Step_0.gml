@@ -1,0 +1,2 @@
+if obj_player.showdialog == false {instance_destroy()} //se desativar a caixa de dialogo a instância dela é destruída também
+if image_index == image_number -1 {image_speed = 0}// se a imagem da animação for igual a sua ultima imagem a animação para

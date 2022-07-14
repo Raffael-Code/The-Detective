@@ -1,0 +1,1 @@
+if ( sprite_index == spr_player_walk) audio_play_sound(choose(snd_walk_1,snd_walk_2,snd_walk_3,snd_walk_4),1,false);
